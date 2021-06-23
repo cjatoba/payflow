@@ -1,3 +1,6 @@
 # payflow
 
-Criar o projeto flutter com o comando `flutter create nomeDoProjeto`
+Projeto desenvolvido na NLW Together, utilizando o Flutter.
+
+#together
+#unidade
